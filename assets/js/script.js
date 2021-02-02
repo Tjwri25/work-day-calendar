@@ -1,5 +1,5 @@
 // display the current date and time in jumbotron
-var todayDate = moment().format('dddd, MMM Do YYYY');
+var todayDate = moment().format('MMMM Do YYYY, h:mm:ss a');
 $("#currentDay").html(todayDate);
 
 $(document).ready(function () {
