@@ -13,3 +13,5 @@ The event will then be saved in local storage in that time block, and will stay 
 
 You can also delete the event, save it, and the time block will then be empty. 
 
+![screenshot](https://user-images.githubusercontent.com/74884495/106536614-0bd0f080-64b6-11eb-8817-417d96bf96ec.png)
+
